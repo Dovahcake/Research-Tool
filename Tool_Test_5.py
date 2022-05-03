@@ -18,7 +18,7 @@ import streamlit as st
 file = Dataset("Tool Files/Default run.nc") # Read in the file
 Loop_list = list(file.variables.keys()) # Creating a list of the variable names to iterate through
 char = st.text_input(label="Please input an element or species of interest. Case sensitive.")
-#char = "I"        
+        
 
 
 # In[3]:
