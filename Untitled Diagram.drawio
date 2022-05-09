@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T14:29:17.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="geB_Vhimly7CkcG82Xiq" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T14:35:36.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Nrcp_4A0bpHk31qAPWNs" version="18.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-26" target="8Z7Ra5g3nKZO3fyW7-og-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-26" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Dropdowns and text input box appear&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-26" value="User Interface Appears&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="190" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-30" target="8Z7Ra5g3nKZO3fyW7-og-39">
@@ -72,13 +72,16 @@
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-52" target="8Z7Ra5g3nKZO3fyW7-og-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-52" target="8Z7Ra5g3nKZO3fyW7-og-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-52" value="Is the inputted character present in variable name?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="570" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-54" target="8Z7Ra5g3nKZO3fyW7-og-44">
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-54" target="8Z7Ra5g3nKZO3fyW7-og-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-54" target="8Z7Ra5g3nKZO3fyW7-og-44">
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-54" target="8Z7Ra5g3nKZO3fyW7-og-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-54" value="Add that variable name to list &#39;Variable&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -88,7 +91,28 @@
           <mxGeometry x="360" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Z7Ra5g3nKZO3fyW7-og-59" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="444" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-65" target="8Z7Ra5g3nKZO3fyW7-og-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-65" value="Concentration tied to variable in &#39;Variable&#39; added to array &#39;Interest&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.564;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-67" target="8Z7Ra5g3nKZO3fyW7-og-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-67" value="Checkboxes appear, pre-ticked" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8Z7Ra5g3nKZO3fyW7-og-69" target="8Z7Ra5g3nKZO3fyW7-og-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-69" value="Checkbox ticked/ unticked" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z7Ra5g3nKZO3fyW7-og-71" value="Associated variable added/removed from &#39;Interest&#39; array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
